@@ -14,3 +14,8 @@ exports = async function sendEmail() {
     const resault = weatherResponse;
     return resault
 };
+
+// export locally for use in unit test
+if (typeof module !== "undefined") {
+    module.exports = exports;
+  }
