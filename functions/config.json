@@ -1,8 +1,7 @@
 [
     {
         "name": "demo/plus",
-        "private": false,
-        "run_as_system": true
+        "private": false
     },
     {
         "name": "demo/sendEmail",
