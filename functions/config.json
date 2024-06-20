@@ -2,7 +2,7 @@
     {
         "name": "demo/plus",
         "private": false,
-        "run_as_system": true
+        "run_as_user_id": "66543c473e6cdeae7a4eacfd"
     },
     {
         "name": "demo/sendEmail",
