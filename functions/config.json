@@ -1,8 +1,7 @@
 [
     {
         "name": "demo/plus",
-        "private": false,
-        "run_as_user_id": "66543e7ad83e2ffdf9371e65"
+        "private": false
     },
     {
         "name": "demo/sendEmail",
