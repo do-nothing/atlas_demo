@@ -23,7 +23,7 @@
         },
         "secret_config": {
             "signingKeys": [
-                "sendgrid_key"
+                "jwtPublicKey_s"
             ]
         }
     },
