@@ -1,0 +1,5 @@
+{
+    "name": "jwtPublicKey",
+    "value": "jwtPublicKey_s",
+    "from_secret": true
+}

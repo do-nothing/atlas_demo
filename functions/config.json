@@ -1,7 +1,26 @@
 [
     {
+        "name": "demo/plus",
+        "private": false
+    },
+    {
         "name": "demo/sendEmail",
         "private": false,
         "run_as_system": true
+    },
+    {
+        "name": "demo/crypto",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "demo/cryptojs",
+        "private": false,
+        "disable_arg_logs": true
+    },
+    {
+        "name": "demo/ethers",
+        "private": false,
+        "disable_arg_logs": true
     }
 ]

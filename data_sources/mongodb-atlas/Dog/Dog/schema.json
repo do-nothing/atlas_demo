@@ -1,0 +1,17 @@
+{
+    "title": "Dog",
+    "properties": {
+        "_id": {
+            "bsonType": "objectId"
+        },
+        "age": {
+            "bsonType": "long"
+        },
+        "name": {
+            "bsonType": "string"
+        }
+    },
+    "required": [
+        "_id"
+    ]
+}

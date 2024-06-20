@@ -1,0 +1,5 @@
+{
+    "name": "pemPrivateKey",
+    "value": "pemPrivateKey_s",
+    "from_secret": true
+}
